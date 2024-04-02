@@ -1,0 +1,104 @@
+
+outside.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Pipes_ext
+  rotate: false
+  xy: 1098, 1602
+  size: 270, 54
+  orig: 270, 54
+  offset: 0, 0
+  index: -1
+TilesetDungeon_ext
+  rotate: false
+  xy: 882, 1494
+  size: 216, 72
+  orig: 216, 72
+  offset: 0, 0
+  index: -1
+TilesetElement
+  rotate: false
+  xy: 0, 372
+  size: 256, 240
+  orig: 256, 240
+  offset: 0, 0
+  index: -1
+TilesetField_ext
+  rotate: false
+  xy: 288, 882
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+TilesetFloorB_ext
+  rotate: false
+  xy: 0, 246
+  size: 198, 126
+  orig: 198, 126
+  offset: 0, 0
+  index: -1
+TilesetFloorDetail_ext
+  rotate: false
+  xy: 594, 1476
+  size: 288, 90
+  orig: 288, 90
+  offset: 0, 0
+  index: -1
+TilesetFloor_ext
+  rotate: false
+  xy: 0, 990
+  size: 396, 468
+  orig: 396, 468
+  offset: 0, 0
+  index: -1
+TilesetHole_ext
+  rotate: false
+  xy: 1674, 1782
+  size: 198, 90
+  orig: 198, 90
+  offset: 0, 0
+  index: -1
+TilesetHouse_ext
+  rotate: false
+  xy: 0, 1458
+  size: 594, 414
+  orig: 594, 414
+  offset: 0, 0
+  index: -1
+TilesetLogic_ext
+  rotate: false
+  xy: 396, 1278
+  size: 144, 180
+  orig: 144, 180
+  offset: 0, 0
+  index: -1
+TilesetNature_ext
+  rotate: false
+  xy: 0, 612
+  size: 288, 378
+  orig: 288, 378
+  offset: 0, 0
+  index: -1
+TilesetReliefDetail_ext
+  rotate: false
+  xy: 1458, 1656
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+TilesetRelief_ext
+  rotate: false
+  xy: 1098, 1656
+  size: 360, 216
+  orig: 360, 216
+  offset: 0, 0
+  index: -1
+TilesetWater_ext
+  rotate: false
+  xy: 594, 1566
+  size: 504, 306
+  orig: 504, 306
+  offset: 0, 0
+  index: -1

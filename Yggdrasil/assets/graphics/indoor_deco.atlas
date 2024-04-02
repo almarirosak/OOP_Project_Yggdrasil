@@ -1,0 +1,41 @@
+
+indoor_deco.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Elements_ext
+  rotate: false
+  xy: 760, 880
+  size: 180, 60
+  orig: 180, 60
+  offset: 0, 0
+  index: -1
+TilesetElement_ext
+  rotate: false
+  xy: 440, 640
+  size: 320, 300
+  orig: 320, 300
+  offset: 0, 0
+  index: -1
+TilesetInteriorFloor_ext
+  rotate: false
+  xy: 0, 600
+  size: 440, 340
+  orig: 440, 340
+  offset: 0, 0
+  index: -1
+TilesetInterior_ext
+  rotate: false
+  xy: 0, 200
+  size: 320, 400
+  orig: 320, 400
+  offset: 0, 0
+  index: -1
+TilesetWallSimple_ext
+  rotate: false
+  xy: 0, 2
+  size: 180, 198
+  orig: 180, 198
+  offset: 0, 0
+  index: -1

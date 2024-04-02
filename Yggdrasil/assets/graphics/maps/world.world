@@ -1,0 +1,27 @@
+{
+    "maps": [
+        {
+            "fileName": "homevillage.tmx",
+            "height": 640,
+            "width": 640,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "level1.tmx",
+            "height": 800,
+            "width": 800,
+            "x": 640,
+            "y": 240
+        },
+        {
+            "fileName": "../../../../../Yggdrasil(temp2)/Yggdrasil/assets/graphics/maps/shrine.tmx",
+            "height": 400,
+            "width": 640,
+            "x": 0,
+            "y": 640
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
